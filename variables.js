@@ -2,7 +2,7 @@ const accountID= 1234   //fixed value- can not be changed
 let accountEmail="xyz2gmail.com"
 var accountpassword ="123456"
 accountcity="Jaipur"
-
+let value= 12
 accountEmail="abcgmail.com"
 accountpassword="9999"
 accountcity="lucknow"
